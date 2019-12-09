@@ -20,7 +20,13 @@ This project is hard coded with a specific location for example purposes, due to
 6. [Slack](https://api.slack.com/)
 
 # What the code looks like:
-![link to JS file](https://github.com/welljer/google_maps_Demo/blob/master/app.js)
+* With comments to assist with understanding of lines
+
+![link to JS picture with comments](https://github.com/welljer/google_maps_Demo/blob/master/images/js_comments.JPG)
+
+* Without comments for simplicity 
+
+![link to JS picture without comments](https://github.com/welljer/google_maps_Demo/blob/master/images/ja_no_comments.JPG)
 
 # Technologies used in creation of this demo
 
@@ -35,6 +41,4 @@ This project is hard coded with a specific location for example purposes, due to
 * [Top 50 Most Popular APIs on RapidAPI](https://rapidapi.com/blog/most-popular-api/)
 * [15 APIs developers need to know](https://www.creativebloq.com/web-design/apis-developers-need-know-121518469)
 
-
-
-### We are using the Google logo for educational purposes only and claim no rights or affiliation with Google in anyway.
+ _We are using the Google logo for educational purposes only and claim no rights or affiliation with Google in anyway._
