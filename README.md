@@ -1,5 +1,5 @@
 ![Google maps logo](https://github.com/welljer/google_maps_Demo/blob/master/images/google_maps_logo.png)
-# Google Maps Api Demo
+# Google Maps API Demo
 Simple project to show how to use Google Maps API as a means to understand the uses of APIs in real world scenarios
 * Disclaimer:
 This project is hard coded with a specific location for example purposes, due to respect for security.
@@ -18,6 +18,9 @@ This project is hard coded with a specific location for example purposes, due to
 4. [Twitter](https://developer.twitter.com/)
 5. [Twilio](https://www.twilio.com/)
 6. [Slack](https://api.slack.com/)
+
+# What the code looks like:
+![link to JS file](https://github.com/welljer/google_maps_Demo/blob/master/app.js)
 
 # Technologies used in creation of this demo
 
