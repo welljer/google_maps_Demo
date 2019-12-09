@@ -1,3 +1,4 @@
+![Google maps logo](https://github.com/welljer/google_maps_Demo/blob/master/images/google_maps_logo.png)
 # Google Maps Api Demo
 Simple project to show how to use Google Maps API as a means to understand the uses of APIs in real world scenarios
 * Disclaimer:
