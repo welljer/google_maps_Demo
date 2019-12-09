@@ -21,6 +21,34 @@ gets it's dimensions otherwise it would collapse and not display the map*/
 /* as a side note it can be named whatever we want it to be named (pizza, 
 cardboard, or whatever. however it is best practice to keep it relative 
 to it's function */
+
+#title{
+    /* this will grab the title id from the HTML file */
+    margin: auto;
+    /* sets margin property to auto the horizontally center the element */
+    display: flex;
+    /* Flex will expand or shrink item to prevent overflow */
+    justify-content: center;
+    /* Justify-content aligns flexed item to be centered in the container */
+    align-items: center;
+    /* aligns items in the center of the container */
+    width: 1280px;
+    /* sets the width to 1280 pixels */
+    margin: 20px 0px;
+    /* sets the margin to 20px for the top and bottom and 0 px for the left and right */
+}
+
+img{
+    max-width: 90%;
+    /* allows for the image to use 90% of the width */
+    height:auto;
+    /* image will adjust its height to allow its content to be displayed correctly */
+    display: flex;
+    /* Flex will expand or shrink item to prevent overflow */
+    border-radius: 1%;
+    /* curves the corners of the img container */
+}
+
 #map{
     border: 2px;
     /* px stands for pixel */
