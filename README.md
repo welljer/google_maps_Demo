@@ -20,11 +20,11 @@ This project is hard coded with a specific location for example purposes, due to
 6. [Slack](https://api.slack.com/)
 
 # What the code looks like:
-* With comments to assist with understanding of lines
+* With comments to assist with understanding of code
 
 ![link to JS picture with comments](https://github.com/welljer/google_maps_Demo/blob/master/images/js_comments.JPG)
 
-* Without comments for simplicity 
+* Without comments for simplicity of code
 
 ![link to JS picture without comments](https://github.com/welljer/google_maps_Demo/blob/master/images/js_no_comments.JPG)
 
