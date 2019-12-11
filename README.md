@@ -26,7 +26,7 @@ This project is hard coded with a specific location for example purposes, due to
 
 * Without comments for simplicity 
 
-![link to JS picture without comments](https://github.com/welljer/google_maps_Demo/blob/master/images/ja_no_comments.JPG)
+![link to JS picture without comments](https://github.com/welljer/google_maps_Demo/blob/master/images/js_no_comments.JPG)
 
 # Technologies used in creation of this demo
 
@@ -34,6 +34,7 @@ This project is hard coded with a specific location for example purposes, due to
 * [CSS3](http://www.css3.info/)
 * [JavaScript](https://www.javascript.com/)
 * [Google Maps](https://developers.google.com/maps/documentation/javascript/tutorial)
+* [Materialize](https://materializecss.com/about.html)
 
 ### Resources
 * [What is an API and Why Should I Use One?](https://medium.com/@TebbaVonMathenstien/what-is-an-api-and-why-should-i-use-one-863c3365726b)
